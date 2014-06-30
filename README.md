@@ -14,7 +14,7 @@ The current code base is in Dutch, but will probably be fairly easy to use if yo
 Implementations
 ---------------
 These are actual implementations of the challenge. If you have one you'd like to share, please add it to this list (via pull request) or send me a message.
-* Roeland van Houte https://github.com/roelandvh/ObjectCalisthenicsCodingDojo
+* Roeland van Houte & Daniel Bronk https://github.com/roelandvh/ObjectCalisthenicsCodingDojo
 * Jiri Bakker & Nick https://github.com/FreekPaans/ObjectCalisthenicsCodingDojo_jiri_nick
 * Morten Asscheman & Erik https://github.com/FreekPaans/ObjectCalisthenicsCodingDojo_erik_morten
 * Corne den Otter & Patrick Kostjens https://github.com/FreekPaans/ObjectCalisthenicsCodingDojo_corne_patrick
