@@ -18,3 +18,4 @@ These are actual implementations of the challenge. If you have one you'd like to
 * Jiri Bakker & Nick https://github.com/FreekPaans/ObjectCalisthenicsCodingDojo_jiri_nick
 * Morten Asscheman & Erik https://github.com/FreekPaans/ObjectCalisthenicsCodingDojo_erik_morten
 * Corne den Otter & Patrick Kostjens https://github.com/FreekPaans/ObjectCalisthenicsCodingDojo_corne_patrick
+* Ely Deckers https://github.com/edeckers/ObjectCalisthenicsCodingDojo
