@@ -11,6 +11,8 @@ The current code base is in Dutch, but will probably be fairly easy to use if yo
 * BerekenScore = CalculateScore
 * ScorePuntVoor = ScorePointFor
 
+I wrote a blog about this on http://www.freekpaans.nl/2014/07/infi-coding-dojo-object-calisthenics/
+
 Implementations
 ---------------
 These are actual implementations of the challenge. If you have one you'd like to share, please add it to this list (via pull request) or send me a message.
